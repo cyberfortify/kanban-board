@@ -21,19 +21,13 @@ This project is great for understanding DOM manipulation, events, and JS drag AP
 ✔ Smooth mobile UI  
 
 
-## 🖥 Desktop View
+## 🖼 Screenshots
 
 <p align="center">
-  <img src="assets/webView.png" alt="Kanban Desktop View" width="650">
+  <img src="assets/webView.png" alt="desktop view" width="45%" />
+  <img src="assets/moblieView.png" alt="mobile view" width="45%" />
 </p>
 
-
-
-## 📱 Mobile View
-
-<p align="center">
-  <img src="assets/moblieView.png" alt="Kanban Mobile View" width="300">
-</p>
 
 
 ## 📂 Project Structure
