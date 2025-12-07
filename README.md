@@ -25,7 +25,7 @@ This project is great for understanding DOM manipulation, events, and JS drag AP
 
 <p align="center">
   <img src="assets/webView.png" alt="desktop view" width="45%" />
-  <img src="assets/moblieView.png" alt="mobile view" width="45%" />
+  <img src="assets/moblieView.png" alt="mobile view" width="10%" />
 </p>
 
 
