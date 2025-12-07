@@ -100,9 +100,9 @@ cd kanban-board
 **Aditya Vishwakarma**
 Python & Web Developer
 
-🌐 Portfolio – [https://imadityavk.vercel.app/](https://imadityavk.vercel.app/)
-💼 LinkedIn – [https://linkedin.com/in/imadityavk](https://linkedin.com/in/imadityavk)
-🔗 GitHub – [https://github.com/cyberfortify](https://github.com/cyberfortify)
+🌐[Portfolio](https://imadityavk.vercel.app/)
+💼[LinkedIn](https://linkedin.com/in/imadityavk)
+🔗[GitHub](https://github.com/cyberfortify)
 
 ## ⭐ If you like this project…
 
