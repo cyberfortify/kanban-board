@@ -23,7 +23,7 @@ This project is great for understanding DOM manipulation, events, and JS drag AP
 
 ## 🖼 Screenshots
 
-<p >
+<p style="display:flex;">
   <img src="assets/webView.png" alt="desktop view" width="70%" />
   <img src="assets/moblieView.png" alt="mobile view" width="30%" />
 </p>
