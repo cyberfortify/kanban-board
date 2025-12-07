@@ -7,7 +7,7 @@ This project is great for understanding DOM manipulation, events, and JS drag AP
 
 ## 🚀 Live Demo
 
-👉 (Add GitHub Pages link here)
+👉 (https://cyberfortify.github.io/kanban-board)
 
 
 ## ✨ Features
