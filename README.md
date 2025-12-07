@@ -1,34 +1,111 @@
-# Kanban Board – Vanilla JS
+# Kanban Board – Vanilla JavaScript 📝
 
-A simple Kanban board built using **HTML, CSS, and Vanilla JavaScript**.  
-You can add tasks, drag & drop them between columns (**To Do**, **In Progress**, **Done**) and the data is saved in `localStorage`.
+A clean and minimal **Kanban task manager** built using **HTML, CSS & Vanilla JavaScript** with full drag-and-drop and automatic task saving using `localStorage`.  
 
-
-
-## 🚀 Features
-
-- Add new tasks with title and description
-- Drag & drop tasks between columns
-- Delete tasks
-- Task counts shown for each column (To Do / In Progress / Done)
-- Data persists using `localStorage` (refresh karne ke baad bhi tasks saved rahenge)
-- Responsive layout:
-  - Desktop: 3 columns side-by-side
-  - Mobile: horizontally scrollable columns
+This project is great for understanding DOM manipulation, events, and JS drag APIs without using any frameworks.
 
 
+## 🚀 Live Demo
 
-## 🧩 Tech Stack
+👉 (Add GitHub Pages link here)
 
-- **HTML5**
-- **CSS3**
-- **JavaScript (ES6)**
-- **LocalStorage** for persistence
+
+## ✨ Features
+
+✔ Add tasks with title & description  
+✔ Drag & Drop between columns  
+✔ Delete tasks  
+✔ Live task counters  
+✔ Saved inside LocalStorage  
+✔ Fully responsive  
+✔ Smooth mobile UI  
+
+
+## 🖥 Desktop View
+
+<p align="center">
+  <img src="assets/webView.png" alt="Kanban Desktop View" width="650">
+</p>
+
+
+
+## 📱 Mobile View
+
+<p align="center">
+  <img src="assets/moblieView.png" alt="Kanban Mobile View" width="300">
+</p>
 
 
 ## 📂 Project Structure
 
-```text
-index.html   - Main HTML structure
-style.css    - Styling for layout, board, modal, and responsiveness
-script.js    - All functionality (add, delete, drag & drop, localStorage)
+```
+
+index.html
+style.css
+script.js
+
+````
+
+
+## 🧩 Technologies Used
+
+- HTML5  
+- CSS3  
+- JavaScript (ES6)  
+- LocalStorage  
+
+
+## 📦 Installation
+
+1. Clone the repo  
+
+```bash
+git clone https://github.com/cyberfortify/kanban-board.git
+````
+
+2. Open folder
+
+```bash
+cd kanban-board
+````
+
+3. Open `index.html` in your browser
+   (Or use VS Code Live Server extension)
+
+
+
+## 🔥 How It Works
+
+* Each column stores its tasks in `localStorage`
+* When you drag & drop a task, the state updates automatically
+* On reload, tasks are restored exactly where they were
+
+## 📱 Responsive Behavior
+
+* Desktop → 3 columns side-by-side
+* Tablet → snap scroll
+* Mobile → smooth horizontal scrolling + drag & drop support
+
+## 📌 Future Enhancements
+
+* Task edit modal
+* Drag handle icon
+* Priority labels
+* Deadline feature
+* Multiple boards
+
+
+## 👨‍💻 Author
+
+**Aditya Vishwakarma**
+Python & Web Developer
+
+🌐 Portfolio – [https://imadityavk.vercel.app/](https://imadityavk.vercel.app/)
+💼 LinkedIn – [https://linkedin.com/in/imadityavk](https://linkedin.com/in/imadityavk)
+🔗 GitHub – [https://github.com/cyberfortify](https://github.com/cyberfortify)
+
+## ⭐ If you like this project…
+
+Please give it a ⭐ on GitHub 😄
+
+
